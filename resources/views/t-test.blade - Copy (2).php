@@ -9,16 +9,12 @@
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- DataTables -->
-  <link rel="stylesheet" href="{{ asset('plugins/datatables/dataTables.bootstrap4.css')}}">
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ asset('dist/css/adminlte.min.css')}}">
 
   <!-- srris chart -->
-  <link rel="stylesheet" href="{{ asset('plugins/morris/morris.css')}}">
   <!-- jvectormap -->
-  <link rel="stylesheet" href="{{ asset('plugins/jvectormap/jquery-jvectormap-1.2.2.css')}}">
   <!-- time picker -->
-  <link rel="stylesheet" href="{{ asset('plugins/timepicker/jquery.timepicker.min.css')}}">
   <!-- toastr notifications -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
   <!-- bootstrap wysihtml5 - text editor -->
@@ -29,12 +25,7 @@
   <link rel="stylesheet" href="{{ asset('dist/css/bootstrap-rtl.min.css')}}">
   <!-- template rtl version -->
   <link rel="stylesheet" href="{{ asset('dist/css/custom-style.css')}}">
-  <!-- custom check boxes -->
-  <link rel="stylesheet" href="{{ asset('dist/css/customCheckBox.css')}}">
-  <!-- iCheck for checkboxes and radio inputs -->
-  <link rel="stylesheet" href="{{ asset('plugins/iCheck/all.css')}}">
-  <!-- Select2 -->
-  <link rel="stylesheet" href="{{ asset('plugins/select2/select2.min.css')}}">
+
         <title>Alaadin</title>
 
         <!-- Fonts -->
